@@ -1,0 +1,7 @@
+e7454db actually changed background color to yellow
+696996e changed background color to yellow
+fa1a267 changed color of one egg to dark green
+d009330 Changed the keybind
+986dc6f Changed the rainbow background
+307a394 Changed eggs color
+0d023c5 Added files to the repo
