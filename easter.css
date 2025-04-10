@@ -1,11 +1,11 @@
 body {
-    background-color: #f8e8ff;
+    background-color: #e5ff00;
     font-family: Arial, sans-serif;
     text-align: center;
 }
 .egg {
     display: inline-block;
-    width: 100px;
+    width: 120px;
     height: 130px;
     background: linear-gradient(45deg, #ff0000, #ffcce6);
     border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
@@ -13,6 +13,18 @@ body {
     cursor: pointer;
     transition: transform 0.3s;
 }
+
+.green-egg {
+    display: inline-block;
+    width: 120px;
+    height: 130px;
+    background: linear-gradient(45deg, #106100, #106100);
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    margin: 10px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
 .egg:hover {
     transform: scale(1.1);
 }
